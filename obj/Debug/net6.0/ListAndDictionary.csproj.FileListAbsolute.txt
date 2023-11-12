@@ -1,0 +1,15 @@
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/bin/Debug/net6.0/ListAndDictionary
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/bin/Debug/net6.0/ListAndDictionary.deps.json
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/bin/Debug/net6.0/ListAndDictionary.runtimeconfig.json
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/bin/Debug/net6.0/ListAndDictionary.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/bin/Debug/net6.0/ListAndDictionary.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.csproj.AssemblyReference.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.AssemblyInfoInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.AssemblyInfo.cs
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.csproj.CoreCompileInputs.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/refint/ListAndDictionary.dll
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.pdb
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ListAndDictionary.genruntimeconfig.cache
+/Users/ayechanpyae/Desktop/Coding Assignments/ListAndDictionary-master/ListAndDictionary/obj/Debug/net6.0/ref/ListAndDictionary.dll
